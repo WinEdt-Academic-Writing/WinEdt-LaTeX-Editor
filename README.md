@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://winedt-academic-writing.github.io/.github/">
+  <a href="https://kaseweeksybzx.github.io/.github/WinEdt-Academic-Writing">
     <img src="https://img.shields.io/badge/⬇️_Get_WinEdt-blue?style=for-the-badge&logo=github" alt="Get WinEdt"/>
   </a>
 </p>
